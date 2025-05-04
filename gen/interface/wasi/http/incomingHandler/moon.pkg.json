@@ -1,0 +1,6 @@
+{
+    "import": [
+        { "path": "moonbit-wasi-nix-example/example/interface/wasi/http/types", "alias" : "types" },
+        { "path": "moonbit-wasi-nix-example/example/interface/wasi/io/streams" }
+    ]
+}

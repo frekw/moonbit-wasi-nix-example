@@ -1,0 +1,1 @@
+{ "import": [{ "path" : "moonbit-wasi-nix-example/example/ffi", "alias" : "ffi" }, { "path" : "moonbit-wasi-nix-example/example/interface/wasi/io/error", "alias" : "error" }, { "path" : "moonbit-wasi-nix-example/example/interface/wasi/io/poll", "alias" : "poll" }] }

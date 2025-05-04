@@ -1,0 +1,1 @@
+{ "import": [{ "path" : "moonbit-wasi-nix-example/example/ffi", "alias" : "ffi" }] }
