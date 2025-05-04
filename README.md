@@ -6,6 +6,12 @@ This is an example of using [WASI HTTP](https://github.com/WebAssembly/wasi-http
 
 Run `direnv allow` and the devshell will provide the necessary tooling (the MoonBit compiler, lsp, `wit-bindgen`, `wit-deps` and `wasm-tools`).
 
+Note: to re-generate the stubs without overwriting your implementations, you can run
+
+```
+$ wit-bindgen moonbit wit --ignore-stub
+```
+
 ## Running
 
 Run `nix build .` or `nix run .` to run the application then visit http://localhost:8080.
