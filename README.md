@@ -1,6 +1,6 @@
 # moonbit-wasi-nix-example
 
-This is an example of using [WASI HTTP](https://github.com/WebAssembly/wasi-http) with MoonBit from ["Developing Wasm component model in MoonBit with minimal output size"](https://www.moonbitlang.com/blog/component-model), setup using a [Nix flake](https://wiki.nixos.org/wiki/Flakes) for the development environment.
+This is an example of using [WASI HTTP](https://github.com/WebAssembly/wasi-http) with MoonBit from "[Developing Wasm component model in MoonBit with minimal output size](https://www.moonbitlang.com/blog/component-model)", setup using a [Nix flake](https://wiki.nixos.org/wiki/Flakes) for the development environment.
 
 ## Developing
 
